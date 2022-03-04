@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#search-btn{
+  cursor: pointer;
+  transition: .5s;
+}
+#search-btn:hover{
+  background-color: green;
+  color: white;
+}
+#return-btn a{
+  text-decoration: none;
+  color: white;
+}
+#spinner{
+  display: none;
+}
